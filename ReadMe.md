@@ -2,6 +2,12 @@
 
 **Work In Progress** 
 
+## Heroku Deployment
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+Remember to [activate](https://i.imgur.com/zOfa0Qm.png) the app. [View the logs here.](https://i.imgur.com/tWBoTuB.png)
+
 ## Agreement
 
 * You may not host dev-tracker-reddit on /r/all.

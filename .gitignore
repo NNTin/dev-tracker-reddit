@@ -2,4 +2,4 @@ config.json
 *.pyc
 
 #IDE metadata
-**.idea/**
+.idea/*
