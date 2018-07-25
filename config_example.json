@@ -1,0 +1,11 @@
+{
+    "client_id" : "client_id",
+    "client_secret" : "client_secret",
+    "username" : "username",
+    "password" : "password",
+    "user_agent" : "dev-tracker-reddit v0.0.1 /u/<your reddit name>",
+    "subreddit" : ["yoursubreddit"],
+    "users" : ["the", "devs"],
+    "bot_is_moderator" : false,
+    "store_size" : 50
+}
