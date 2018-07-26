@@ -38,7 +38,7 @@
       "default": "False"
     },
     "STORE_SIZE": {
-      "description": "Use a bigger number if your subreddit is very active. 50 should be plenty for the average subreddit."
+      "description": "Use a bigger number if your subreddit is very active. 50 should be plenty for the average subreddit.",
       "default": "50"
     },
     "INTRO:" : {
