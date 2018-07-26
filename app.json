@@ -9,7 +9,7 @@
   ],
   "website": "https://github.com/NNTin/dev-tracker-reddit",
   "repository": "https://github.com/NNTin/dev-tracker-reddit",
-  "logo": "https://i.imgur.com/11zvdoc.png",
+  "logo": "https://i.imgur.com/1milQUi.png",
   "env": {
     "CLIENT_ID": {
       "description": "client id of your Reddit script"
