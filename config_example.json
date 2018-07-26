@@ -7,5 +7,6 @@
     "subreddit" : ["yoursubreddit"],
     "users" : ["the", "devs"],
     "bot_is_moderator" : false,
-    "store_size" : 50
+    "store_size" : 50,
+    "intro" : "Hey, I am /u/{bot_name} running on /r/{subreddit}. I am stalking {users}."
 }
