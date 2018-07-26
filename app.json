@@ -25,7 +25,7 @@
     },
     "USER_AGENT": {
       "description": "User agent of your Reddit bot. This is used to identify to the Reddit admins which user this bot belongs to.",
-      "default": "dev-tracker-bot /u/<insert your main account username> v0.0.1"
+      "value": "dev-tracker-bot /u/<insert your main account username> v0.0.1"
     },
     "SUBREDDITS": {
       "description": "The subreddits this bot is running on. Comma separate multiple subreddits."
@@ -35,15 +35,15 @@
     },
     "BOT_IS_MODERATOR": {
       "description": "If the Reddit bot account is a moderator and you wish the bot to auto-pin his own message in the reddit thread.",
-      "default": "False"
+      "value": "False"
     },
     "STORE_SIZE": {
       "description": "Use a bigger number if your subreddit is very active. 50 should be plenty for the average subreddit.",
-      "default": "50"
+      "value": "50"
     },
     "INTRO" : {
       "description": "Customize your intro here.",
-      "default": "Hey, I am /u/{bot_name} running on /r/{subreddit}. I am stalking {users}."
+      "value": "Hey, I am /u/{bot_name} running on /r/{subreddit}. I am stalking {users}."
     }
   }
 }

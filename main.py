@@ -32,7 +32,7 @@ if __name__ == '__main__':
 
         subreddit_url_encoded = quote_plus("/r/{subreddit}".format(subreddit=str(comment.subreddit)))
 
-        outtro_template = "[source](https://github.com/NNTin/dev-tracker-bot) on GitHub, " \
+        outtro_template = "[source](https://github.com/NNTin/dev-tracker-reddit) on GitHub, " \
                           "[message](https://www.reddit.com/message/compose?to={url}) " \
                           "the moderators"
         outtro = outtro_template.format(bot_name=r.config.username,
