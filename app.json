@@ -40,6 +40,10 @@
     "STORE_SIZE": {
       "description": "Use a bigger number if your subreddit is very active. 50 should be plenty for the average subreddit."
       "default": "50"
+    },
+    "INTRO:" : {
+      "description": "Customize your intro here.",
+      "default": "Hey, I am /u/{bot_name} running on /r/{subreddit}. I am stalking {users}."
     }
   }
 }

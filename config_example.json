@@ -3,7 +3,7 @@
     "client_secret" : "client_secret",
     "username" : "username",
     "password" : "password",
-    "user_agent" : "dev-tracker-reddit v0.0.1 /u/<your reddit name>",
+    "user_agent" : "dev-tracker-reddit v0.1.0 /u/<your reddit name>",
     "subreddit" : ["yoursubreddit"],
     "users" : ["the", "devs"],
     "bot_is_moderator" : false,

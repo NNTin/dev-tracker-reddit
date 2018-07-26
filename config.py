@@ -15,5 +15,6 @@ else:
         "subreddit": os.environ["SUBREDDITS"].replace(" ", "").split(","),
         "users": os.environ["USERS"].lower().replace(" ", "").split(","),
         "bot_is_moderator": False if os.environ["BOT_IS_MODERATOR"] in false_strings else True,
-        "store_size": int(os.evniron["STORE_SIZE"])
+        "store_size": int(os.environ["STORE_SIZE"]),
+        "intro": os.environ["INTRO"]
     }
