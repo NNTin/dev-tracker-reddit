@@ -19,3 +19,7 @@ Remember to [activate](https://i.imgur.com/zOfa0Qm.png) the app. [View the logs 
 ## Support
 
 [![](https://discordapp.com/api/guilds/295528852518731786/embed.png?style=banner2)](https://discord.gg/ZVQywBg)
+
+## Video Tutorial
+
+[![YT Video](https://img.youtube.com/vi/03nSVgs6GXw/0.jpg)](https://www.youtube.com/watch?v=03nSVgs6GXw)
